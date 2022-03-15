@@ -1,0 +1,52 @@
+Éè±¸1£º
+
+{
+  "ProductKey": "g62q9dACl3D",
+  "DeviceName": "KSNY20211125001",
+  "DeviceSecret": "91e48315dd0eeda69ffdaae833452c0d"
+}
+
+
+¶©ÔÄ£º/sys/g62q9dACl3D/KSNY20211125001/thing/service/property/set
+
+·¢²¼£º/sys/g62q9dACl3D/KSNY20211125001/thing/event/property/post
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Éè±¸2£º
+
+{
+  "ProductKey": "g62q9dACl3D",
+  "DeviceName": "KSNY20211125002",
+  "DeviceSecret": "084f216515b77ad53e4b2a6013d411c1"
+}
+
+¶©ÔÄ£º/sys/g62q9dACl3D/KSNY20211125002/thing/service/property/set
+
+·¢²¼£º/sys/g62q9dACl3D/KSNY20211125002/thing/event/property/post
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Éè±¸3£º
+
+{
+  "ProductKey": "g62q9dACl3D",
+  "DeviceName": "KSNY20211125003",
+  "DeviceSecret": "e2f98fb654aacd78ca9314ecba5143a5"
+}
+
+¶©ÔÄ£º/sys/g62q9dACl3D/KSNY20211125003/thing/service/property/set
+
+·¢²¼£º/sys/g62q9dACl3D/KSNY20211125003/thing/event/property/post
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+Éè±¸4£º
+
+{
+  "ProductKey": "g62q9dACl3D",
+  "DeviceName": "KSNY20211125004",
+  "DeviceSecret": "4e3bd0bdc84e91e4adc0415778d24929"
+}
+¶©ÔÄ£º/sys/g62q9dACl3D/KSNY20211125004/thing/service/property/set
+
+·¢²¼£º/sys/g62q9dACl3D/KSNY20211125004/thing/event/property/post
+
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
