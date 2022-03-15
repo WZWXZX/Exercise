@@ -50,3 +50,13 @@
 窟下��/sys/g62q9dACl3D/KSNY20211125004/thing/event/property/post
 
 ！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+
+git remote set-url origin https://
+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@github.com/WZWXZX/Exercise.git
+
+https://github.com/WZWXZX/Exercise.git
+
+
+ git push https://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@github.com/WZWXZX/Exercise.git
+
+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
